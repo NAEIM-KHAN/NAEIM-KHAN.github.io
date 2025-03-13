@@ -18311,3 +18311,15 @@ img {
     display: none;
 }
 */
+
+/* Contact Form */
+.pageclip-form__success{
+    background: rgba(0, 0, 0, 0.800);
+    top: 100px;
+    bottom: 100px;
+}
+
+.pageclip-form__success__message{
+    color: red;
+}
+/* ///Contact Form */
